@@ -36,7 +36,7 @@ Calendrix is a full-stack event calendar application that allows users to schedu
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Harshit-65/calendrix.git
+   git clone https://github.com/Harshit-65/Calendrix.git
    cd calendrix
    ```
 
