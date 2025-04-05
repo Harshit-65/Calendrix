@@ -16,11 +16,13 @@ Calendrix is a full-stack event calendar application that allows users to schedu
 ## Tech Stack
 
 ### Frontend
+
 - **Next.js**
 - **TypeScript**
 - **Tailwind CSS**
 
 ### Backend
+
 - **NestJS**
 - **TypeScript**
 - **Swagger**: API documentation
@@ -35,12 +37,14 @@ Calendrix is a full-stack event calendar application that allows users to schedu
 ### Installation & Setup
 
 1. Clone the repository
+
    ```bash
    git clone https://github.com/Harshit-65/Calendrix.git
    cd calendrix
    ```
 
 2. Set up the backend
+
    ```bash
    cd backend/api
    npm install
@@ -55,10 +59,12 @@ Calendrix is a full-stack event calendar application that allows users to schedu
 ### Running the Application
 
 1. Start the backend server
+
    ```bash
    cd backend/api
    npm run start:dev
    ```
+
    The API will be available at http://localhost:3000
 
 2. Start the frontend development server
@@ -92,26 +98,32 @@ calendrix/
 ## Features in Detail
 
 ### Event Management
+
 - Create events with title, description, start/end times
 - Edit existing events
 - Delete events
 - View event details including attached media
 
 ### Notifications
+
 - Browser notifications for upcoming events
 - Snooze option for notifications
 - Permission request handling
 
 ### Media Handling
+
 - Image upload (up to 5MB)
-- Video upload (up to 20MB) 
+- Video upload (up to 20MB)
 - YouTube video linking
 
 ### Search & Filtering
+
 - Search by title or description
 - Filter by date range
 - Sort by various fields (start time, end time, creation date, title)
 - Ascending or descending order options
 
+### NOTE:
 
-
+- Make sure notification is allowed in your browser.
+  ![notification permission](./notification.png)
