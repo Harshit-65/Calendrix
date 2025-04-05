@@ -126,4 +126,5 @@ calendrix/
 ### NOTE:
 
 - Make sure notification is allowed in your browser.
-  <img src="./notification.png" alt="notification-permission" width="400" />
+  <br />
+  <img src="./notification.png" alt="notification-permission" width="200" hieght="200" />
