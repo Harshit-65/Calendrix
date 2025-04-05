@@ -126,4 +126,4 @@ calendrix/
 ### NOTE:
 
 - Make sure notification is allowed in your browser.
-  <img src="./screenshot.png" alt="Calendrix Screenshot" width="500" />
+  <img src="./notification.png" alt="notification-permission" width="400" />
